@@ -39,14 +39,14 @@
 
 ### 📌 Proyek pilihan
 
-- **[ZhuaSic](https://github.com/ZhuaSic/ZhuaSic)** — Config files for my GitHub profile.  
-  `-` · ⭐ 0
-- **[badge-lab](https://github.com/ZhuaSic/badge-lab)** — Latihan achievement GitHub (Pull Shark & Pair Extraordinaire)  
-  `-` · ⭐ 0
-- **[rtq-landingpage](https://github.com/ZhuaSic/rtq-landingpage)** — Tanpa deskripsi  
-  `TypeScript` · ⭐ 0
-- **[NusaAi](https://github.com/ZhuaSic/NusaAi)** — Platform gateway dan agregator API model AI yang ramah pengembang. Dibangun untuk kecepatan, skalabilitas, dan kemudahan integrasi.  
-  `-` · ⭐ 0
+- **[Heppy-newyear](https://github.com/ZhuaSic/Heppy-newyear)** — 2026  
+  `HTML`
+- **[QuranQita](https://github.com/ZhuaSic/QuranQita)** — Aplikasi Quran yang lengkap dan multifungsi  
+  `repo publik`
+- **[Link-Downloads-Belajar-Programming-samp-yt](https://github.com/ZhuaSic/Link-Downloads-Belajar-Programming-samp-yt)** — Berisi Link yang hilang di channel lama  
+  `repo publik`
+- **[desacerdas-android](https://github.com/ZhuaSic/desacerdas-android)** — aplikasi mengelola desa melalui android  
+  `repo publik`
 
 ---
 
