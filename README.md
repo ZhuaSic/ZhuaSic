@@ -39,14 +39,14 @@
 
 ### 📌 Proyek pilihan
 
+- **[ZhuaSic](https://github.com/ZhuaSic/ZhuaSic)** — Config files for my GitHub profile.  
+  `-` · ⭐ 0
 - **[badge-lab](https://github.com/ZhuaSic/badge-lab)** — Latihan achievement GitHub (Pull Shark & Pair Extraordinaire)  
   `-` · ⭐ 0
 - **[rtq-landingpage](https://github.com/ZhuaSic/rtq-landingpage)** — Tanpa deskripsi  
   `TypeScript` · ⭐ 0
 - **[NusaAi](https://github.com/ZhuaSic/NusaAi)** — Platform gateway dan agregator API model AI yang ramah pengembang. Dibangun untuk kecepatan, skalabilitas, dan kemudahan integrasi.  
   `-` · ⭐ 0
-- **[android-sweetalert2](https://github.com/ZhuaSic/android-sweetalert2)** — Tanpa deskripsi  
-  `Java` · ⭐ 0
 
 ---
 
