@@ -4,7 +4,7 @@
   <a href="https://github.com/ZhuaSic?tab=followers">
     <img src="https://img.shields.io/github/followers/ZhuaSic?label=Followers&style=flat-square&color=blue" alt="followers">
   </a>
-  <img src="https://img.shields.io/badge/Focus-proyek open-source-informational?style=flat-square" alt="focus">
+  <img src="https://img.shields.io/badge/Focus-proyek_open--source-informational?style=flat-square" alt="focus">
 </p>
 
 <p align="center">
@@ -18,23 +18,22 @@
 - 🔭 Saat ini mengerjakan **proyek open-source**
 - 🌱 Sedang belajar **hal baru setiap hari**
 - 💬 Tanya saya soal **Python, JavaScript, dan otomasi**
-- 📫 Hubungi: [GitHub](https://github.com/ZhuaSic) · [https://play.google.com/store/apps/details?id=com.ayokulakan.dev](https://play.google.com/store/apps/details?id=com.ayokulakan.dev)
+- 📫 Hubungi: [GitHub](https://github.com/ZhuaSic) · [play.google.com](https://play.google.com/store/apps/details?id=com.ayokulakan.dev)
 - ⚡ Fun fact: saya lebih suka CLI daripada GUI
 
 ### 🛠️ Stack
 
 <p>
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Python-05122A?logo=python&style=flat-square&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?logo=javascript&style=flat-square&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Git-05122A?logo=git&style=flat-square&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Linux-05122A?logo=linux&style=flat-square&logoColor=white" alt="Linux" />
 </p>
 
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ZhuaSic&show_icons=true&hide_border=true&count_private=true" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhuaSic&layout=compact&hide_border=true" alt="langs" />
+  <img src="https://streak-stats.demolab.com/?user=ZhuaSic&hide_border=true" alt="statistik GitHub" />
 </p>
 
 ### 📌 Proyek pilihan
